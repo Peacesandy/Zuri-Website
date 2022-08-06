@@ -1,0 +1,235 @@
+body{
+    font-family: 'Averta-Bold', sans-serif;
+    font-weight: 400;
+    color: #1B1A17;
+}
+
+
+.top-section{
+    background-image: url(https://zuri.team/img/hero-bg.svg);
+    height: 100vh;
+}
+
+
+.image1{
+      margin-top: 5%;
+      margin-left: 46%;
+}
+
+h1{
+    text-align: center;
+    margin-top: 7%;
+}
+
+.unlock{
+    text-align: center;
+    
+}
+
+.red{
+    color: #e7332b;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    margin-top: 7%;
+    position: relative;
+}
+
+
+.button1{
+    text-decoration: none;
+    width: 13%;
+    text-align: center;
+    padding: 13px;
+    border: 1px solid #e7332b;
+    position: absolute;
+    left: 33%;
+    background-color: #e7332b;
+    color: white;
+    cursor: pointer;
+    
+}
+
+.button2{
+    text-decoration: none;
+    width: 15%;
+    text-align: center;
+    padding: 13px;
+    border: 1px solid ;
+    position: absolute;
+    right: 33%;
+    color: #e7332b;
+    cursor: pointer;
+}
+
+
+.new:hover{
+    background-color: white;
+}
+
+.button1:hover{
+    border: 1px solid #e7332b;
+    color: #e7332b;
+    background-color: white;
+
+}
+
+
+.button2:hover{
+    border: 1px solid #e7332b;
+    color: white;
+    background-color: #e7332b;
+
+}
+
+.by{
+    color: #e7332b;
+    text-align: center;
+    font-size: small;
+    font-weight: 600;
+}
+
+.mid-section{
+    margin-top: 15%;
+    position: relative;
+}
+
+.we{
+    text-align: center;
+    font-weight: 400;
+}
+
+
+.image2{
+    width: 30%;
+    height: 20%;
+}
+
+.image3{
+    width: 30%;
+    height: 50%;
+    position: absolute;
+    right: 1%;
+
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+
+}
+
+.box1{
+    width: 20%;
+    height: 50%;
+    background-color: #FFF8F3;
+    position: absolute;
+    left: 7%;
+    top: 30%;
+    padding: 5% 5% 2% 2%;
+}
+
+.box2{
+    width: 20%;
+    height: 50%;
+    background-color: #FFF8F3;
+    position: absolute;
+    left: 36.5%;
+    top: 30%;
+    padding: 5% 5% 2% 2%;
+}
+
+.box3{
+    width: 20%;
+    height: 50%;
+    background-color: #FFF8F3;
+    position: absolute;
+    right: 7%;
+    top: 30%;
+    padding: 5% 5% 2% 2%;
+}
+
+.text{
+    text-align: left;
+    margin-top: 15%;
+    font-weight: 400;
+    
+}
+
+.bottom-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10%;
+    margin-bottom: 8%;
+}
+
+.imageA{
+    margin-left: 11%;
+    margin-bottom: 4%;
+}
+
+
+.first-row{
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2%;
+}
+
+
+.second-row{
+    margin-left: 9%;
+
+}
+
+
+.third-row{
+    margin-bottom: 4%;
+}
+
+
+.imgfb{
+    width: 6%;
+    height: 6%;
+    cursor: pointer;
+
+}
+
+.imgtw{
+        width: 6%;
+        height: 6%;
+        cursor: pointer;
+    
+}
+
+.imgig{
+    width: 6%;
+    height: 6%;
+    cursor: pointer;
+
+}
+
+.imgin{
+    width: 6%;
+    height: 6%;
+    cursor: pointer;
+
+}
+
+hr{
+    width: 85%;
+    margin-bottom: 3%;
+}
+
+
+.copywrite{
+    text-align: center;
+    margin-bottom: 7%;
+}
